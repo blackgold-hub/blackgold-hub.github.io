@@ -5,6 +5,7 @@ tags: ["扫漫"]
 categories: ["观后感"]
 abstract: 这部分的内容因为剧透被隐秘了。
 message: 以下内容涉及剧透，确认观看吗[Y]
+comments: true
 password: Y
 wrong_pass_message: 那不给你看哦
 wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.

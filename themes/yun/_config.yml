@@ -98,10 +98,10 @@ social:
   #   # icon: icon-telegram-fill
   #   icon: icon-telegram-line
   #   color: "#0088CC"
-  # - name: E-Mail
-  #   link: mailto:me@yunyoujun.cn
-  #   icon: icon-mail-line
-  #   color: "#8E71C1"
+  - name: E-Mail
+    link: mailto:fxy1020@163.com
+    icon: icon-mail-line
+    color: "#8E71C1"
   # - name: Travelling
   #   link: https://travellings.now.sh/
   #   icon: icon-send-plane-2-line
@@ -163,9 +163,9 @@ menu:
       path: /tags/
       icon: icon-price-tag-3-line
   custom:
-    title: 文档
-    path: https://yun.yunyoujun.cn
-    icon: icon-settings-line
+    title: 留言板
+    path: /about/#comment
+    icon: icon-clipboard-line
 
 # archive
 archive:

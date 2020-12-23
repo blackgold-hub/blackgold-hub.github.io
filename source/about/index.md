@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2020-11-17 15:05:39
-comments: false
+comments: true
 ---
 
 ### 自我介绍
@@ -15,4 +15,4 @@ comments: false
 
 以上，请多指教。
 
-![alt 基友的嘲讽](liaotianjilu1.png)_拽，发现了真相_
+![alt 基友的嘲讽](../liaotianjilu1.png)_拽，发现了真相_

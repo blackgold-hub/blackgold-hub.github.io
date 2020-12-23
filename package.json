@@ -30,6 +30,8 @@
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
     "live2d-widget-model-hijiki": "^1.0.5",
-    "star-markdown-css": "^0.1.22"
+    "minivaline": "^5.0.0",
+    "star-markdown-css": "^0.1.22",
+    "valine": "^1.4.14"
   }
 }
