@@ -29,8 +29,10 @@
     "hexo-renderer-pug": "^1.0.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
+    "hexo-tag-aplayer": "^3.0.4",
     "live2d-widget-model-hijiki": "^1.0.5",
     "minivaline": "^5.0.0",
+    "pjax": "^0.2.8",
     "star-markdown-css": "^0.1.22",
     "valine": "^1.4.14"
   }
