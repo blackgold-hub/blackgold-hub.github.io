@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>2020年终总结</title>
+      <link href="2021/02/20/year-summary-2020/"/>
+      <url>2021/02/20/year-summary-2020/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>回想一下，已经正式工作1年多了，时间过得还真是快啊！</p><p>到上海也快1年了，一个人生活虽然有些寂寞，但对于一个擅长自娱自乐的人来说，这都不是事。</p><p>新部门的老大对我挺好，大家看我一个人来上海生活，也都很照顾我。真的非常感谢他们。</p><p>工作上没有遇到特别特别难的事情，那些事情基本交给前辈做了，留给我的都是比较轻松的活。谢谢谢谢谢！</p><p>2020年吃得最满意的安利是《诡秘之主》。花了1个多星期看完，看到结局直接泪洒黄浦江，小克就是坠好的神！期待诡秘2，许愿小克的出场摩多摩多！</p><p>新入坑的游戏里感觉最好玩的是FF14。直升包选了个学者，一部分是因为白送1个召唤，另一部分就是因为小克的序列3是“古代学者”。嘿嘿，我算一个合格的克厨吗？</p><p>另外，还入坑了黑暗游戏《原神》。这个游戏的剧情不能跳过，这对我这个只想大开杀戒的玩家有那么一捏捏的不友好。不过前期剧情还不错，看看也没啥不好的。目前觉得最满意的剧情是温迪的传说任务，若你困于无风之地。针不戳，是我现在爱上温迪的主要原因。后来因为原神拜年祭的《让风告诉你》萌上了魈温，再然后就把魈给满命了。现在我把全村最好的枪和风圣遗物都给了他，在大世界里我E得很开心。</p><p>最近还有在看《我有一座冒险屋》，原名《我有一座恐怖屋》。不得不说起点排行榜上的文比晋江上的吸引我，真基就是没有兄弟情香啊！</p><p>前不久入手了新的笔记本，联想的拯救者R7000。比较失望吧，刚买2个月不到，主板就坏了送去修了，我真是心里有一万句MMP想说。不过平时跑游戏什么的速度都还可以。</p><p>以上，我的2020年也没啥想说的。对2021年也没啥期待，继续混日子。偶尔工作时间摸摸鱼，美滋滋呀。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 年终总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>怎么在自己的博客中加入全局音乐播放器</title>
+      <link href="2021/01/24/article-20210124/"/>
+      <url>2021/01/24/article-20210124/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>首先，我使用的主题是<a href="https://yun.yunyoujun.cn/">Hexo-Theme-Yun</a>，由<a href="https://www.yunyoujun.cn/">云游君</a>这位大佬制作。</p><ol><li><p>把主题里的设置文件中的pjax打开<br>文件路径：\themes\yun_config.yml</p><pre class="language-none"><code class="language-none">pjax:    enable: true</code></pre></li><li><p>在layout.pug文件中加入以下代码<br>文件路径：\themes\yun\layout_partial\layout.pug</p><pre class="language-none"><code class="language-none">link(rel&#x3D;&#39;stylesheet&#39;, href&#x3D;&#39;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;kumybryce&#x2F;resource@v1.109&#x2F;mycdn&#x2F;css&#x2F;APlayer.min.css&#39;)script(src&#x3D;&#39;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;aplayer@latest&#x2F;dist&#x2F;APlayer.min.js&#39;)script(src&#x3D;&#39;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;meting@latest&#x2F;dist&#x2F;Meting.min.js&#39;)</code></pre></li></ol><p>以上，是不是很简单呢~(*^▽^*)</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一张用来记录安利的清单</title>
       <link href="2020/12/21/zhuilist/"/>
       <url>2020/12/21/zhuilist/</url>
@@ -11,31 +49,6 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h3 id="动画"><a href="#动画" class="headerlink" title="动画"></a>动画</h3><ul><li><input disabled type="checkbox"> 咒术回战</li></ul><h3 id="漫画"><a href="#漫画" class="headerlink" title="漫画"></a>漫画</h3><ul><li><input checked disabled type="checkbox"> 电锯人</li></ul><h3 id="小说"><a href="#小说" class="headerlink" title="小说"></a>小说</h3><ul><li><input checked disabled type="checkbox"> 诡秘之主</li><li><input disabled type="checkbox"> 薄雾</li><li><input disabled type="checkbox"> 小行星</li></ul><h3 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h3>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>无能的奈奈</title>
-      <link href="2020/11/19/wunengdenainai/"/>
-      <url>2020/11/19/wunengdenainai/</url>
-      
-        <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="那不给你看哦" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">以下内容涉及剧透，确认观看吗[Y]</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="cd934894e2b210ec276c5beb669d170b427d9d0769f0b0b699e9999a9aea0e0d">3d6372fc76ae435e2e32314232fdfa985c8188fadcf02205c7492d60b388bbcd400e86a986eaba24043b5016a36b7afd657ce37692de1d326d4e508bf9e4681562c6114dad5693d9a07a7f1619b71c9c36eac79cedfceeda5324b25b77397d152a7e1756066ba7cf4961920d6268ced4965ce73bc791e6c6eebf51fcf3ee4c9b4b16c3bd1263048ca9330629f3610985ffcd40d46b8c608a6551d63a2cb950b55880f2e2ea21c73e22158248ea75f6d517a712a8f47cc1e77b413088bb391f359448b38a23837d99be6b73d6ebd51185952c0124c10ee7daf97640f52ed47b7b3cbc2a85a3ad3c2d263738ade5b9bdbd686e091716db0888360180ac844701f434f9e45198665271de67150c54514a19ad9011bcfdbd42ce8af3b76a099c928373e6b1e6cf7011c5b812c457db3cb07a216c7ccea05ca20d6bae1e6947f3df57248301dfa990412e50259a4f9d0382e00423b5bc3e0afa443559d19cffe890fe4d80ab59df8f660563363c3706cfa9f4b7c95dce4467ac894ae7f3976eeea6651e4b2462b311e096ae26841b4a50828c477a91178c763d3a2206d3a50fa5da21a198b4aef90bf29add362213dfcc0765a062bd30e77e61331a47d1ae6925e89c7f86d46b1f3000ccca18f8359b8ae5f66565753026239dc3aba9b11f200e867f5fb29b06ea57bce355a4f8c36bdbbd7b017f10a6626aa83654d136d4d04eca75268771210fbab0978ca50ab90d2e482b555a43cebfbde55576682eb72037371c81cf1e21c9591d8d9b48ef68b2935f4f0da9924820043e29d3480d30e1a937e3ec06d2c6d063d21a93cb3105796aee6e201e96171122f109596359d2be634e4be2b8376b70bc2498cde7c284955f8bd7a3972ec55f930037bdd05a7f6ba86bdca732bf02e3f54c4d51c91bb5fc43b78f53c87225e23ea2bcc974facca4dbc717abd410ae1c02a668f2e28a087576a123fae9190a008a09cb0e3c7b749a93644eb7ba9fe2fbbb6917f92b8d04b2770ee38445484f3b287558038eb7691d2cdefb3c602ef4274bcad3216c6c4edb90c0686e4ccd7a4f018f5133061ab1dfa7a1627f020d3483c7861f28fb6a8d879cf9fcda3b005aae2e243ee4f600590495f872334baf588831c4d025f0b8877db55dd6d9e534c48471a5c96bda2eb31937c1b62515f25b0457bc25175bc6baa915b32c0bd58211841629422aa34d7237c630ac1226a77969c2b23a0e80a962810c2a5915ea28fe0a11efccf7e8dcc0e281ac8be4afa26304b9c31809c7e7705639456e</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      <categories>
-          
-          <category> 观后感 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 扫漫 </tag>
-            
-        </tags>
       
     </entry>
     
