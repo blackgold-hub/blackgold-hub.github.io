@@ -17,7 +17,7 @@ colors:
 
 # Favicon
 # ---------------
-favicon: /raven.ico
+favicon: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/raven.ico
 
 # ---------------------------------------------------------------
 # Sidebar Settings
@@ -137,7 +137,7 @@ girls:
 # Sidebar Avatar
 avatar:
   enable: true
-  url: /raven.png
+  url: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/raven.png
   # If true, the avatar would be dispalyed in circle.
   rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
