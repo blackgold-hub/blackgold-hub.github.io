@@ -1,0 +1,129 @@
+avatar:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/raven.png
+  # If true, the avatar would be dispalyed in circle.
+  rounded: true
+  # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: false
+    emoji: 😊
+    message: 永远相信美好的事情即将发生
+
+colors:
+  primary: '#01acdb'
+  # bg: "#F5F5F5"
+  selection_bg: '#8e71c1' # 选取文字时的背景色
+  # 标签云中标签的起始色和结束色
+  # tag_start_color:
+  # tag_end_color:
+
+favicon: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/raven.ico
+
+social:
+  - name: E-Mail
+    link: mailto:fxy1020@163.com
+    icon: ri:mail-line
+    color: '#8E71C1'
+
+banner:
+  enable: true
+  title: 黑金的杂物间
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+bg_image:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/venti1.jpg
+  # dark:
+  # blur: 30px # 设置背景模糊程度
+  opacity: 0.8
+
+medium_zoom: true
+
+scrollreveal:
+  enable: true
+  targets:
+    - .post-card
+    - .markdown-body img
+
+cursor:
+  enable: true
+  default: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Normal Select.cur
+  pointer: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Busy 2.cur
+  text: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Text Select Draw 3.cur
+  
+
+sidebar:
+  bg_image: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/venti2.jpg
+  bg_position: bottom 3rem center
+  tagcloud:
+    enable: false
+    amount: 20
+
+lazyload:
+  enable: true
+
+reward:
+  enable: false
+  icon: ri:hand-coin-line
+  comment: I'm so cute. Please give me money.
+  # url: https://github.com/YunYouJun/yunyoujun.github.io/issues/96
+  methods:
+    - name: 支付宝
+      path: https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg
+      color: '#00A3EE'
+      icon: ri:alipay-line
+      # link: https://xxxx
+    - name: QQ 支付
+      path: https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png
+      color: '#12B7F5'
+      icon: ri:qq-line
+    - name: 微信支付
+      path: https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg
+      color: '#2DC100'
+      icon: ri:wechat-pay-line
+
+
+creative_commons:
+  license: by-nc-sa
+  post: true
+  language: deed.zh
+  clipboard: false
+
+
+say:
+  enable: false
+  api: https://cdn.jsdelivr.net/gh/ElpsyCN/say@gh-pages/sentences.json
+  # https://developer.hitokoto.cn/sentence/
+  hitokoto:
+    enable: true
+    api: https://v1.hitokoto.cn
+
+
+# comment:
+#   enable: true
+#   tips:
+#     - 若您想及时得到回复提醒，建议跳转 GitHub Issues 评论。
+#     - 若没有本文 Issue，您可以使用 Comment 模版新建。
+#   candidates:
+#     - waline
+#     - utterances
+
+# github_issues:
+#   enable: true
+#   username: BlackGold
+#   repository: blackgold-hub.github.io
+#   filters: is:issue
+
+waline:
+  enable: true
+  serverURL: https://blackgoldblog-nrms0ugb7-blackgold-hub.vercel.app
+  # visitor: true
+  comment: true
