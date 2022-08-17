@@ -127,3 +127,15 @@ waline:
   serverURL: https://blackgoldblog-nrms0ugb7-blackgold-hub.vercel.app
   # visitor: true
   comment: true
+
+wordcloud:
+  enable: true
+
+albums:
+  enable: true
+
+pages:
+  - name: 相册
+    url: /albums/
+    icon: ri:gallery-line
+    color: dodgerblue
