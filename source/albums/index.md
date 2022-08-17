@@ -1,8 +1,8 @@
 ---
 type: albums
 albums:
-  - caption: 夕阳西下
-    url: /albums/sunset.html
-    cover: https://interactive-examples.mdn.mozilla.net/media/examples/elephant-660-480.jpg
-    desc: 我想起那天夕阳下的奔跑
+  - caption: 测试相册
+    url: /albums/test.html
+    cover: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/你被骗了.png
+    desc: 测试相册
 ---
