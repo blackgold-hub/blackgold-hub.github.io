@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>怎么在自己的博客中加入全局音乐播放器</title>
+    <url>/2021/01/24/article-20210124/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>首先，我使用的主题是<a href="https://yun.yunyoujun.cn/">Hexo-Theme-Yun</a>，由<a href="https://www.yunyoujun.cn/">云游君</a>这位大佬制作。</p>
+<ol>
+<li>把主题里的设置文件中的pjax打开<br>  文件路径：\themes\yun_config.yml</li>
+</ol>
+  <pre class="line-numbers language-none"><code class="language-none">pjax:
+    enable: true<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
+
+<ol start="2">
+<li>在layout.pug文件中加入以下代码<br>  文件路径：\themes\yun\layout_partial\layout.pug</li>
+</ol>
+  <pre class="line-numbers language-none"><code class="language-none">link(rel&#x3D;&#39;stylesheet&#39;, href&#x3D;&#39;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;gh&#x2F;kumybryce&#x2F;resource@v1.109&#x2F;mycdn&#x2F;css&#x2F;APlayer.min.css&#39;)
+script(src&#x3D;&#39;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;aplayer@latest&#x2F;dist&#x2F;APlayer.min.js&#39;)
+script(src&#x3D;&#39;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;meting@latest&#x2F;dist&#x2F;Meting.min.js&#39;)<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+
+
+<p>以上，是不是很简单呢~(*^▽^*)</p>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一张用来记录安利的清单</title>
+    <url>/2020/12/21/zhuilist/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h3 id="动画"><a href="#动画" class="headerlink" title="动画"></a>动画</h3><ul>
+<li><input disabled type="checkbox"> 咒术回战</li>
+</ul>
+<h3 id="漫画"><a href="#漫画" class="headerlink" title="漫画"></a>漫画</h3><ul>
+<li><input checked disabled type="checkbox"> 电锯人</li>
+</ul>
+<h3 id="小说"><a href="#小说" class="headerlink" title="小说"></a>小说</h3><ul>
+<li><input checked disabled type="checkbox"> 诡秘之主</li>
+<li><input disabled type="checkbox"> 薄雾</li>
+<li><input disabled type="checkbox"> 小行星</li>
+</ul>
+<h3 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h3>]]></content>
+  </entry>
+  <entry>
+    <title>2020年终总结</title>
+    <url>/2021/02/20/year-summary-2020/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>回想一下，已经正式工作1年多了，时间过得还真是快啊！</p>
+<p>到上海也快1年了，一个人生活虽然有些寂寞，但对于一个擅长自娱自乐的人来说，这都不是事。</p>
+<p>新部门的老大对我挺好，大家看我一个人来上海生活，也都很照顾我。真的非常感谢他们。</p>
+<p>工作上没有遇到特别特别难的事情，那些事情基本交给前辈做了，留给我的都是比较轻松的活。谢谢谢谢谢！</p>
+<p>2020年吃得最满意的安利是《诡秘之主》。花了1个多星期看完，看到结局直接泪洒黄浦江，小克就是坠好的神！期待诡秘2，许愿小克的出场摩多摩多！</p>
+<p>新入坑的游戏里感觉最好玩的是FF14。直升包选了个学者，一部分是因为白送1个召唤，另一部分就是因为小克的序列3是“古代学者”。嘿嘿，我算一个合格的克厨吗？</p>
+<p>另外，还入坑了黑暗游戏《原神》。这个游戏的剧情不能跳过，这对我这个只想大开杀戒的玩家有那么一捏捏的不友好。不过前期剧情还不错，看看也没啥不好的。目前觉得最满意的剧情是温迪的传说任务，若你困于无风之地。针不戳，是我现在爱上温迪的主要原因。后来因为原神拜年祭的《让风告诉你》萌上了魈温，再然后就把魈给满命了。现在我把全村最好的枪和风圣遗物都给了他，在大世界里我E得很开心。</p>
+<p>最近还有在看《我有一座冒险屋》，原名《我有一座恐怖屋》。不得不说起点排行榜上的文比晋江上的吸引我，真基就是没有兄弟情香啊！</p>
+<p>前不久入手了新的笔记本，联想的拯救者R7000。比较失望吧，刚买2个月不到，主板就坏了送去修了，我真是心里有一万句MMP想说。不过平时跑游戏什么的速度都还可以。</p>
+<p>以上，我的2020年也没啥想说的。对2021年也没啥期待，继续混日子。偶尔工作时间摸摸鱼，美滋滋呀。</p>
+]]></content>
+      <tags>
+        <tag>年终总结</tag>
+      </tags>
+  </entry>
+</search>
