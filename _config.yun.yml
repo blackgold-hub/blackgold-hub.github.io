@@ -1,6 +1,17 @@
+head:
+  css:
+    example: https://cdn.jsdelivr.net/gh/kumybryce/resource@v1.109/mycdn/css/APlayer.min.css
+  js:
+    base:
+      - https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js
+      - https://cdn.jsdelivr.net/npm/meting@latest/dist/Meting.min.js
+    async:
+    defer:
+
+
 avatar:
   enable: true
-  url: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/raven.png
+  url: /resource/img/raven.png
   # If true, the avatar would be dispalyed in circle.
   rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
@@ -19,7 +30,7 @@ colors:
   # tag_start_color:
   # tag_end_color:
 
-favicon: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/raven.ico
+favicon: /resource/img/raven.ico
 
 social:
   - name: E-Mail
@@ -40,7 +51,8 @@ banner:
 
 bg_image:
   enable: true
-  url: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/venti1.jpg
+  # url: /resource/img/venti1.jpg
+  url: /resource/img/venti1.jpg
   # dark:
   # blur: 30px # 设置背景模糊程度
   opacity: 0.8
@@ -55,9 +67,10 @@ scrollreveal:
 
 cursor:
   enable: true
-  default: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Normal Select.cur
-  pointer: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Busy 2.cur
-  text: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Text Select Draw 3.cur
+  # default: /resource/cur/Venti Normal Select.cur
+  default: /resource/cur/Venti Normal Select.cur
+  pointer: /resource/cur/Venti Busy 2.cur
+  text: /resource/cur/Venti Text Select Draw 3.cur
   
 
 menu:
@@ -84,7 +97,7 @@ menu:
 
 
 sidebar:
-  bg_image: https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/venti2.jpg
+  bg_image: /resource/img/venti2.jpg
   bg_position: bottom 3rem center
   tagcloud:
     enable: false
@@ -177,13 +190,8 @@ aplayer:
     volume: 0.7
     mutex: true
     lrcType: 0
-    listFolded: false
+    listFolded: true
     listMaxHeight: 340px
-    audio:
-      - name: 星宿计时
-        artist: 杉田朗/洛天依
-        url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/audio/star-timer.mp3
-        cover: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0.jpg
     meting:
       enable: true
       id: 5395067437
@@ -207,3 +215,10 @@ engine_search:
 # https://github.com/next-theme/hexo-generator-searchdb
 local_search:
   enable: true
+
+post_meta:
+  item_text: false
+  created_at: true
+  updated_at: false
+  categories: true
+  tags: true

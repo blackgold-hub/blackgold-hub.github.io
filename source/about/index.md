@@ -15,7 +15,7 @@ comments: true
 
 以上，请多指教。
 
-![alt 基友的嘲讽](https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/artimg/about/liaotianjilu1.png)_拽，发现了真相_
+![alt 基友的嘲讽](/resource/artimg/about/liaotianjilu1.png)_拽，发现了真相_
 
 <!-- {% img ../liaotianjilu1.png '"title text" "alt text"' %} -->
 <!-- {% img liaotianjilu1.png 500 400 %} -->

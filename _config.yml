@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blackgold-hub.github.io
+url: https://blackgold-hub.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -107,13 +107,6 @@ deploy:
   branch: master
   message: Update Hexo Static Content # 你可以自定义此次部署更新的说明
 
-post_meta:
-  item_text: false
-  created_at: true
-  updated_at: false
-  categories: true
-  tags: true
-
 live2d:
   enable: true
   # 推荐使用 jsdelivr 的 CDN 来加载
@@ -141,7 +134,9 @@ live2d:
   #   hitokoto: true
 
 aplayer:
-  cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js
-  style_cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css
+  # cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js
+  # style_cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css
   meting: true
-  meting_cdn: https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js
+  # meting_cdn: https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js
+  asset_inject: false
+
