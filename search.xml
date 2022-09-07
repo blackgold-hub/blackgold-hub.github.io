@@ -3,7 +3,7 @@
   <entry>
     <title>怎么在自己的博客中加入全局音乐播放器</title>
     <url>/2021/01/24/article-20210124/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>首先，我使用的主题是<a href="https://yun.yunyoujun.cn/">Hexo-Theme-Yun</a>，由<a href="https://www.yunyoujun.cn/">云游君</a>这位大佬制作。</p>
+    <content><![CDATA[<p>首先，我使用的主题是<a href="https://yun.yunyoujun.cn/">Hexo-Theme-Yun</a>，由<a href="https://www.yunyoujun.cn/">云游君</a>这位大佬制作。</p>
 <ol>
 <li>把主题里的设置文件中的pjax打开<br>  文件路径：\themes\yun_config.yml</li>
 </ol>
@@ -25,25 +25,9 @@ script(src&#x3D;&#39;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;meting@lat
       </tags>
   </entry>
   <entry>
-    <title>一张用来记录安利的清单</title>
-    <url>/2020/12/21/zhuilist/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><h3 id="动画"><a href="#动画" class="headerlink" title="动画"></a>动画</h3><ul>
-<li><input disabled type="checkbox"> 咒术回战</li>
-</ul>
-<h3 id="漫画"><a href="#漫画" class="headerlink" title="漫画"></a>漫画</h3><ul>
-<li><input checked disabled type="checkbox"> 电锯人</li>
-</ul>
-<h3 id="小说"><a href="#小说" class="headerlink" title="小说"></a>小说</h3><ul>
-<li><input checked disabled type="checkbox"> 诡秘之主</li>
-<li><input disabled type="checkbox"> 薄雾</li>
-<li><input disabled type="checkbox"> 小行星</li>
-</ul>
-<h3 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h3>]]></content>
-  </entry>
-  <entry>
     <title>2020年终总结</title>
     <url>/2021/02/20/year-summary-2020/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>回想一下，已经正式工作1年多了，时间过得还真是快啊！</p>
+    <content><![CDATA[<p>回想一下，已经正式工作1年多了，时间过得还真是快啊！</p>
 <p>到上海也快1年了，一个人生活虽然有些寂寞，但对于一个擅长自娱自乐的人来说，这都不是事。</p>
 <p>新部门的老大对我挺好，大家看我一个人来上海生活，也都很照顾我。真的非常感谢他们。</p>
 <p>工作上没有遇到特别特别难的事情，那些事情基本交给前辈做了，留给我的都是比较轻松的活。谢谢谢谢谢！</p>
@@ -57,5 +41,32 @@ script(src&#x3D;&#39;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;meting@lat
       <tags>
         <tag>年终总结</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>记第一次和日本人本番环境再鉴</title>
+    <url>/2022/08/30/meetwithjp/</url>
+    <content><![CDATA[<p>今天第一次和日本上级开了本番release的再鉴会议，从早上10点钟一直开到了11点半。尽管坐在空调房里，但开完了我浑身都在冒汗。我的日语真的太太太苦手了，读、写、听的能力或许还行，说的能力那是无限接近于0啊！就，感觉网络那头的日本人听不听得懂，已经全靠缘分了。尤其是公司的网还这么差的情况下。</p>
+<p>回想起来，自从大学时期学习了日语，考过了N2，N1翻车了，我几乎就不怎么主动去学日语的那些单词、语法了。接触日语全靠动画或者听歌。毕业之后进入了一家日企，而且进的部门正好是最需要日语的，就重新捡起了它。然后就在这个部门工作了一年，一年之后，疫情爆发，在武汉苦逼地在家呆坐3个月，网络环境的原因不再维护客户的项目，开始搞起了一个考试系统。封城结束的当天就坐飞机去上海了。进了新的部门，这个部门接触的几乎都是国内的客户了，用日语的机会就更是少了。一直到这次这个新项目，我才算是正式重新用上日语。</p>
+<p>总之，作业是顺利完成了。感谢follow我的顾san，感谢帮忙再鉴的铃木san！</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一张用来记录安利的清单</title>
+    <url>/2020/12/21/zhuilist/</url>
+    <content><![CDATA[<h3 id="动画"><a href="#动画" class="headerlink" title="动画"></a>动画</h3><ul>
+<li><input disabled type="checkbox"> 咒术回战</li>
+</ul>
+<h3 id="漫画"><a href="#漫画" class="headerlink" title="漫画"></a>漫画</h3><ul>
+<li><input checked disabled type="checkbox"> 电锯人</li>
+</ul>
+<h3 id="小说"><a href="#小说" class="headerlink" title="小说"></a>小说</h3><ul>
+<li><input checked disabled type="checkbox"> 诡秘之主</li>
+<li><input disabled type="checkbox"> 薄雾</li>
+<li><input disabled type="checkbox"> 小行星</li>
+</ul>
+<h3 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h3>]]></content>
   </entry>
 </search>

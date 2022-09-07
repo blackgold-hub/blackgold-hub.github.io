@@ -124,7 +124,7 @@ html.dark {
   --hty-secondary-text-color: #555;
   --post-block-bg-color: #fff;
   --smc-link-color: #01acdb;
-  --yun-bg-image: url("https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/venti1.jpg");
+  --yun-bg-image: url("/resource/img/venti1.jpg");
   --banner-line-color: #000;
   --banner-char-color: #000;
 }
@@ -329,19 +329,19 @@ body::before {
   }
 }
 body {
-  cursor: url("https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Normal Select.cur"), auto;
+  cursor: url("/resource/cur/Venti Normal Select.cur"), auto;
 }
 a {
-  cursor: url("https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Busy 2.cur"), auto;
+  cursor: url("/resource/cur/Venti Busy 2.cur"), auto;
 }
 a:hover {
-  cursor: url("https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Busy 2.cur"), auto;
+  cursor: url("/resource/cur/Venti Busy 2.cur"), auto;
 }
 .hty-icon-button {
-  cursor: url("https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Busy 2.cur"), pointer;
+  cursor: url("/resource/cur/Venti Busy 2.cur"), pointer;
 }
 input {
-  cursor: url("https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Text Select Draw 3.cur"), auto;
+  cursor: url("/resource/cur/Venti Text Select Draw 3.cur"), auto;
 }
 :root {
   --banner-char-bg-color: rgba(255,255,255,0.5);
@@ -896,7 +896,7 @@ input {
 }
 .wordcloud #wordcloud-canvas,
 .wordcloud #wordcloud-sidebar-canvas {
-  cursor: url("https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Busy 2.cur"), pointer;
+  cursor: url("/resource/cur/Venti Busy 2.cur"), pointer;
 }
 .wordcloud #wordbox {
   pointer-events: none;
@@ -1815,7 +1815,7 @@ input {
   max-height: 10000px;
 }
 :root {
-  --sidebar-bg-image: url("https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/img/venti2.jpg");
+  --sidebar-bg-image: url("/resource/img/venti2.jpg");
 }
 #menu-btn {
   display: none;
@@ -2290,7 +2290,7 @@ html.dark {
   position: relative;
   width: 15rem;
   margin: 1.5rem;
-  cursor: url("https://cdn.jsdelivr.net/gh/blackgold-hub/cdn@master/cur/Venti Busy 2.cur"), pointer;
+  cursor: url("/resource/cur/Venti Busy 2.cur"), pointer;
 }
 .photo-list-item img {
   box-sizing: border-box;
