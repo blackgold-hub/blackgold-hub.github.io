@@ -165,7 +165,7 @@ waline:
   comment: true
 
 wordcloud:
-  enable: true
+  enable: false
 
 albums:
   enable: true
@@ -177,7 +177,7 @@ pages:
     color: dodgerblue
 
 aplayer:
-  global: true
+  global: false
   meting: true
   # https://github.com/metowolf/MetingJS/tree/v1.2#option
   widget:
@@ -199,9 +199,6 @@ aplayer:
       type: playlist
 
 
-pjax:
-  enable: true
-
 search:
   modal: true
   bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-2.jpg
@@ -222,3 +219,16 @@ post_meta:
   updated_at: false
   categories: true
   tags: true
+
+codeblock:
+  copy_btn: true
+
+icons:
+  # 返回顶部
+  back_to_top: ri:arrow-up-s-line
+  # 分类
+  category: ri:folder-2-line
+  # 标签
+  tag: ri:price-tag-3-line
+  # 拜访
+  view: ri:eye-line

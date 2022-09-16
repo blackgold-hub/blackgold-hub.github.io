@@ -43,17 +43,29 @@ render_drafts: false
 post_asset_folder: true
 relative_link: false
 future: true
+
+# highlight:
+#   enable: false
+#   line_number: true
+#   auto_detect: true
+#   tab_replace: ''
+#   wrap: true
+#   hljs: false
+
+# prismjs:
+#   enable: true
+#   preprocess: true
+#   line_number: true
+#   tab_replace: ''
+
+# 关闭 highlight
 highlight:
   enable: false
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: false
+# 启用 prism
 prismjs:
   enable: true
   preprocess: true
-  line_number: true
+  line_number: false
   tab_replace: ''
 
 # Home page setting
@@ -140,3 +152,6 @@ aplayer:
   # meting_cdn: https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js
   asset_inject: false
 
+
+pjax:
+  enable: true
