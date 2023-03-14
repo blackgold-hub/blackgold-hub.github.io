@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>这是一篇测试文章</title>
+    <url>/2023/03/10/testpage/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 密码不正确, 请再试试." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="4a13efddcaad6a34a71a75d0f1f8a4945c7614ee7bdbe47b65506de8acc5a6aa">bd25ed9264b080267271e137e33d0ce183591fdc55f0e40d30b304c64c1dcec7ec77706f3d7fa7f806e56d9d80cf0828</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-shrink">
+      <input class="hbe hbe-input-field hbe-input-field-shrink" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-shrink" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-shrink">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+  </entry>
+  <entry>
     <title>Vercel域名被墙如何解决</title>
     <url>/2023/03/10/vercel/</url>
     <content><![CDATA[<blockquote>
 <p>参考<a href="https://blog.csdn.net/Panzer_Jack/article/details/127418379">https://blog.csdn.net/Panzer_Jack/article/details/127418379</a></p>
 </blockquote>
-]]></content>
-  </entry>
-  <entry>
-    <title>这是一篇测试文章</title>
-    <url>/2023/03/10/testpage/</url>
-    <content><![CDATA[<p>测试内容！</p>
 ]]></content>
   </entry>
   <entry>
