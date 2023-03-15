@@ -160,7 +160,7 @@ say:
 
 waline:
   enable: true
-  serverURL: https://blackgoldblog-nrms0ugb7-blackgold-hub.vercel.app
+  serverURL: https://comment.carmendei.cn/
   # visitor: true
   comment: true
 
@@ -197,7 +197,6 @@ aplayer:
       id: 5395067437
       server: netease
       type: playlist
-
 
 search:
   modal: true
@@ -243,3 +242,6 @@ hide_posts:
   public_generators: []
   # 为隐藏的文章添加 noindex meta 标签，阻止搜索引擎收录
   noindex: true
+
+encrypt:
+  enable: true

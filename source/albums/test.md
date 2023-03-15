@@ -3,6 +3,7 @@ title: 测试相册
 date: 2020-04-18 16:27:24
 updated: 2020-04-18 16:27:24
 layout: gallery
+gallery_password: test
 photos:
   - caption: 锐雯
     src: /resource/img/raven.png
